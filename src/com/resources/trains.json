@@ -1,0 +1,296 @@
+{
+  "trains": [
+    {
+      "wagons": [
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 70.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 35.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.1957785680000645,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.1957785680000645,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7353302136811526,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7353302136811526,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7353302136811526,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7353302136811526,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 34.0,
+          "density": 1.7353302136811526,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7068810963403374,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        }
+      ],
+      "locomotives": [
+        {},
+        {},
+        {}
+      ],
+      "totalTrainPower": 6417.0,
+      "CLASS_META_KEY": "oop.complectors.FreightTrain"
+    },
+    {
+      "wagons": [
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7068810963403374,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 1.7068810963403374,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 5.0,
+          "density": 1.7068810963403374,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 66.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "massOfCargo": 22.0,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.PlatformFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 0.9984691394730096,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 0.9984691394730096,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 159.0,
+          "density": 0.9984691394730096,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        },
+        {
+          "volumeOfCargo": 65.0,
+          "density": 0.9984691394730096,
+          "CLASS_META_KEY": "oop.complectors.wagons.freight.TankFreightWagon"
+        }
+      ],
+      "locomotives": [
+        {},
+        {}
+      ],
+      "totalTrainPower": 4278.0,
+      "CLASS_META_KEY": "oop.complectors.FreightTrain"
+    }
+  ]
+}
